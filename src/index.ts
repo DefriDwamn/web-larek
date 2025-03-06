@@ -9,7 +9,8 @@ import { cloneTemplate } from './utils/utils';
 import { Card } from './components/view/screen/Card';
 import { Modal } from './components/view/partial/Modal';
 import { Basket } from './components/view/partial/Basket';
-import { Form } from './components/view/Form';
+import { Order } from './components/view/partial/Order';
+import { Contacts } from './components/view/partial/Contacts';
 import { Success } from './components/view/partial/Success';
 
 const BASE_URL = process.env.API_ORIGIN;
